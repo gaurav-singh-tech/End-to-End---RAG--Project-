@@ -1,0 +1,52 @@
+# ===== Core LangChain Stack =====
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.36
+
+# ===== Vector Database =====
+chromadb==0.5.5
+
+# ===== Embeddings =====
+sentence-transformers==3.0.1
+tiktoken==0.7.0
+
+# ===== LLM APIs =====
+google-generativeai==0.7.2
+mistralai==1.0.3
+
+# ===== Document Loaders =====
+pypdf==4.3.1
+python-docx==1.1.2
+unstructured==0.15.7
+beautifulsoup4==4.12.3
+
+# ===== NLP =====
+nltk==3.9.1
+spacy==3.7.5
+
+# ===== Backend =====
+fastapi==0.112.2
+uvicorn==0.30.6
+
+# ===== Environment =====
+python-dotenv==1.0.1
+
+# ===== Data Handling =====
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# ===== Logging =====
+loguru==0.7.2
+
+# ===== Requests =====
+requests==2.32.3
+
+# ===== Optional UI =====
+streamlit==1.37.1
+
+# ===== Dev Tools =====
+pytest==8.3.2
+black==24.8.0
+flake8==7.1.1
+ipykernel==6.29.5
