@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 End-to-End RAG Project
+# 🔍 End-to-End RAG Project 
 
 ### *Retrieval-Augmented Generation — From Documents to Intelligent Answers*
 
